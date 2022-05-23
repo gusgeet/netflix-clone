@@ -1,0 +1,23 @@
+.Footer{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    max-width: 900px;
+    margin: 20px auto 0;
+    padding: 0 4%;
+    color: gray;
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid grey;
+    color: lightgrey;
+    font-size: 12px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.button:hover{
+    color: white;
+}

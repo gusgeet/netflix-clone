@@ -1,0 +1,15 @@
+.SocialLinks{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 15px;
+    margin-bottom: 1rem;
+}
+
+.Links{
+    margin-right: 20px;
+    max-width: fit-content;
+}
+
+.Links:nth-child(4){
+    margin: 0;
+}
